@@ -1,0 +1,16 @@
+# Ignora fisiere generate de Vivado
+*.jou
+*.log
+*.str
+.Xil/
+*.os
+*.pb
+*.bit
+*.dcp
+*.runs/
+*.hw/
+*.ip_user_files/
+*.sim/
+*.cache
+*.wdb
+*.sim/
